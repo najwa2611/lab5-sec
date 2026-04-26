@@ -1,0 +1,1 @@
+ces screenshots montre le processus de l installation d un crackable level 2 , jadx , et finalement ghidra puis leur utilisation pour l analyse et le reverse ing pour finalement trouver le mot cle "Thanks for all the fish"
